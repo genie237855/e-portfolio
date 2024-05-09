@@ -1,0 +1,125 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head> 
+<title> E-PORTFOLIO </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Document</title>
+<link rel="stylesheet" href="Faigmanistyles.css">
+</head>
+<body>
+<nav class="navbar">
+<ul>
+<li><a href="#home"> Home </a></li>
+<li><a href="#about"> Pictures</a></li>
+<li><a href="#VIDEOS"> Videos </a></li>
+<li><a href="#AUDIO"> Audio</a></li>
+<li><a href="#TABLES"> Tables</a></li>
+<li><a href="#MAGAZINE"> Magazine</a></li>
+</ul>
+</nav>
+<section id="home">
+<div class="main">
+<h1 class="headings"> I AM <br> ANGELA FAIGMANI </h1>
+<a href="#about">
+<button class="btn">
+Journey
+</button>
+</a>
+</div>
+</section>
+<section id="about">
+<h1 class="headings"> Pictures </h1>
+<p> This is how my Grade 9 year went through...</p>
+<div class="pic">
+<img src="5.jpg">
+</div>
+</section>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<section id="VIDEOS">
+<h1 class="headings"> VIDEOS </h1>
+<div class="vids">
+<video src="vid1.mp4" width="650" height="600" autoplay controls>
+</video>
+<p> This is a clip that shows our Variety Show performance last April 4, 2024 in Las Piñas City <br> National Science Highschool Gymnasium (court). The process of completing this project was<br> very challenging but I am very proud of my section because with our combined efforts, <br> we were able to complete the task assigned to us. I would also like to acknowledge the teachers <br> that lent us their time to practice the show.</p>
+<video src="vid2.mp4" width="650" height="600" autoplay controls>
+</video>
+<p> This one's a more recent video clip of our Performance task in P.E which is Zumba.</P>
+</div>
+</section>
+<br>
+<br>
+<br>
+<br>
+<br>
+<section id="AUDIO">
+<h1 class="headings"> AUDIO </h1>
+<div class="audio">
+<audio controls>
+<source src="salve regina.M4A" type="audio/mpeg">
+</audio>
+<p> (Please excuse my voice hehe) If I remember correctly this is our first performance task in Music at the start of SY 2023-2024.</p>
+</div>
+</section>
+<section id="TABLES">
+<h1 class="headings">TABLES</h1>
+<div class="headings"> 
+<table align="center" border="5" bordercolor="#E75480" width="600" cellpadding="4"
+cellspacing="6">
+<caption><h2> PERFORMANCE TASKS </h2></caption>
+<tr height="35" align="center">
+<td bgcolor="white"><b>Quarter</b></td>
+<td bgcolor="white"><b>Performance Task</b></td>
+<td bgcolor="white"><b>Difficulty</b></td>
+<tr><td bgcolor="white">Quarter 1</td>
+<td bgcolor="white">Teacher's Day Video </td>
+<td bgcolor="white"> Medium </td> </tr>
+<tr><td bgcolor="white"> Quarter 2</td>
+<td bgcolor="white">Book Trailer </td>
+<td bgcolor="white"> Medium </td> </tr>
+<tr><td bgcolor="white">Quarter 3</td>
+<td bgcolor="white"> Variety Show </td>
+<td bgcolor="white"> Hard</td> </tr>
+<tr><td bgcolor="white"> Quarter 4</td>
+<td bgcolor="white">Magazine </td>
+<td bgcolor="white"> Medium</td> </tr>
+</table>
+</div>
+</section>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<section id="MAGAZINE"
+<h1 class="headings"> Magazine</h1>
+<div class="pic2">
+<img src="magazine.jpg">
+<p> This is the Magazine performance task we made in Mapeh in collaboration with ICT</p>
+</div>
+</section>
+</body>
+</html>
